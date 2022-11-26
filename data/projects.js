@@ -1,3 +1,4 @@
+
 export const projects = [
     {
         title: 'Spotify Clone',
@@ -16,5 +17,10 @@ export const projects = [
         github: 'https://github.com/xyz',
         link: 'https://google.com',
         is_featured: true,
+    },
+    {
+        title: "potfolio project using react"
+        desc: 'et vitae inventjc c duc huic c ucu cc igig si'
+        tags:["react","python"]
     },
 ];
